@@ -1,1 +1,1 @@
-Extract the .zip (it will be data.csv) before runnung the code 
+Extract the data file (if it is of type .zip otherwise you are good to go) before runnung the code 
