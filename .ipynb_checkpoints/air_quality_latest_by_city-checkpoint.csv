@@ -1,0 +1,305 @@
+location,state,type,so2,no2,rspm,spm,pm2_5,date,Year,Month,SOi,Noi,Rpi,SPMi,AQI,AQI_Range
+ANKLESHWAR,Gujarat,RIRUO,24.0,24.0,81.0,187.0,36.0,2015-11-30,2015.0,11.0,30.0,30.0,0.0,158.0,158.0,Poor
+Agra,Uttar Pradesh,"Residential, Rural and other Areas",6.0,14.0,197.0,187.0,32.0,2015-12-31,2015.0,12.0,7.5,17.5,0.0,158.0,158.0,Poor
+Ahmedabad,Gujarat,"Residential, Rural and other Areas",18.0,19.0,54.0,187.0,17.0,2015-12-31,2015.0,12.0,22.5,23.75,0.0,158.0,158.0,Poor
+Aizawl,Mizoram,"Residential, Rural and other Areas",2.0,9.0,32.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,11.25,0.0,158.0,158.0,Poor
+Akola,Maharashtra,Industrial Area,9.0,11.0,131.0,187.0,32.0,2015-12-31,2015.0,12.0,11.25,13.75,0.0,158.0,158.0,Poor
+Alappuzha,Kerala,"Residential, Rural and other Areas",2.0,5.0,37.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,6.25,0.0,158.0,158.0,Poor
+Allahabad,Uttar Pradesh,"Residential, Rural and other Areas",2.0,34.0,262.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,42.5,0.0,158.0,158.0,Poor
+Alwar,Rajasthan,"Residential, Rural and other Areas",7.0,28.0,219.0,187.0,32.0,2015-12-31,2015.0,12.0,8.75,35.0,0.0,158.0,158.0,Poor
+Amlai,Madhya Pradesh,Industrial Area,17.0,27.0,60.0,187.0,32.0,2015-08-31,2015.0,8.0,21.25,33.75,0.0,158.0,158.0,Poor
+Amona,Goa,"Residential, Rural and other Areas",4.0,10.0,79.0,187.0,25.0,2015-12-30,2015.0,12.0,5.0,12.5,0.0,158.0,158.0,Poor
+Amravati,Maharashtra,"Residential, Rural and other Areas",11.0,13.0,89.0,187.0,32.0,2015-12-31,2015.0,12.0,13.75,16.25,0.0,158.0,158.0,Poor
+Amritsar,Punjab,Industrial Area,16.0,40.0,390.0,187.0,32.0,2015-12-29,2015.0,12.0,20.0,50.0,0.0,158.0,158.0,Poor
+Ananthapur,Andhra Pradesh,"Residential, Rural and other Areas",5.0,10.0,82.0,187.0,32.0,2015-12-28,2015.0,12.0,6.25,12.5,0.0,158.0,158.0,Poor
+Angul,Odisha,"Residential, Rural and other Areas",11.0,23.0,113.0,187.0,51.0,2015-12-31,2015.0,12.0,13.75,28.75,0.0,158.0,158.0,Poor
+Ankleshwar,Gujarat,"Residential, Rural and other Areas",15.0,21.0,90.0,187.0,33.0,2015-03-26,2015.0,3.0,18.75,26.25,0.0,158.0,158.0,Poor
+Anklesvar,Gujarat,Industrial Areas,21.6,27.4,96.0,192.0,32.0,2009-12-09,2009.0,9.0,27.0,34.25,0.0,161.33333333333331,161.33333333333331,Poor
+Anpara,Uttar Pradesh,Industrial Area,18.0,30.0,142.0,187.0,32.0,2015-12-31,2015.0,12.0,22.5,37.5,0.0,158.0,158.0,Poor
+Asansol,West Bengal,Industrial Area,10.0,73.0,253.0,187.0,32.0,2015-12-30,2015.0,12.0,12.5,91.25,0.0,158.0,158.0,Poor
+Assanora,Goa,"Residential, Rural and other Areas",4.0,10.0,75.0,187.0,23.0,2015-12-30,2015.0,12.0,5.0,12.5,0.0,158.0,158.0,Poor
+Aurangabad,Maharashtra,"Residential, Rural and other Areas",27.0,59.0,161.0,187.0,32.0,2015-12-31,2015.0,12.0,33.75,73.75,0.0,158.0,158.0,Poor
+Aurangabad (MS),Maharashtra,Residential and others,7.0,18.0,73.0,211.0,32.0,2009-12-31,2009.0,12.0,8.75,22.5,0.0,174.0,174.0,Poor
+Baddi,Himachal Pradesh,"Residential, Rural and other Areas",2.0,22.0,166.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,27.5,0.0,158.0,158.0,Poor
+Badlapur,Maharashtra,Industrial Area,28.0,72.0,133.0,187.0,32.0,2015-12-31,2015.0,12.0,35.0,90.0,0.0,158.0,158.0,Poor
+Balasore,Odisha,Industrial Area,9.0,14.0,105.0,187.0,32.0,2015-12-28,2011.0,7.0,11.25,17.5,0.0,158.0,158.0,Poor
+Bangalore,Karnataka,Sensitive Area,6.0,8.0,25.0,187.0,32.0,2015-12-31,2011.0,7.0,7.5,10.0,0.0,158.0,158.0,Poor
+Bareilly,Uttar Pradesh,"Residential, Rural and other Areas",10.0,22.0,348.0,187.0,32.0,2015-12-29,2015.0,12.0,12.5,27.5,0.0,158.0,158.0,Poor
+Baroda,Gujarat,Industrial Area,18.0,26.0,230.0,333.0,32.0,2004-12-31,2004.0,12.0,22.5,32.5,0.0,283.0,283.0,Unhealthy
+Barrackpore,West Bengal,Industrial Area,8.0,54.0,122.0,187.0,95.0,2015-12-30,2015.0,12.0,10.0,67.5,0.0,158.0,158.0,Poor
+Baruipur,West Bengal,Residential and others,8.0,22.0,267.0,187.0,32.0,2007-12-31,2007.0,12.0,10.0,27.5,0.0,158.0,158.0,Poor
+Bathinda,Punjab,Industrial Area,5.0,14.0,103.0,187.0,32.0,2015-12-23,2015.0,12.0,6.25,17.5,0.0,158.0,158.0,Poor
+Belgaum,Karnataka,Industrial Area,2.0,21.0,144.0,187.0,32.0,2015-12-29,2015.0,12.0,2.5,26.25,0.0,158.0,158.0,Poor
+Berhampur,Odisha,"Residential, Rural and other Areas",2.0,19.0,105.0,187.0,56.0,2015-12-30,2015.0,12.0,2.5,23.75,0.0,158.0,158.0,Poor
+Bharuch,Gujarat,RIRUO,13.0,21.0,83.0,187.0,30.0,2015-03-26,2015.0,3.0,16.25,26.25,0.0,158.0,158.0,Poor
+Bhilai,Chhattisgarh,"Residential, Rural and other Areas",5.0,14.0,73.0,187.0,32.0,2015-12-31,2015.0,12.0,6.25,17.5,0.0,158.0,158.0,Poor
+Bhilai Nagar,Chhattisgarh,Residential and others,6.0,18.0,93.0,169.0,32.0,2009-12-31,2009.0,12.0,7.5,22.5,0.0,146.0,146.0,Poor
+Bhopal,Madhya Pradesh,"Residential, Rural and other Areas",2.0,14.0,130.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,17.5,0.0,158.0,158.0,Poor
+Bhubaneshwar,Odisha,Residential and others,8.0,18.2,73.0,155.0,32.0,2009-12-10,2009.0,10.0,10.0,22.75,0.0,136.66666666666666,136.66666666666666,Poor
+Bhubaneswar,Odisha,"Residential, Rural and other Areas",2.0,19.0,164.0,187.0,54.0,2015-12-31,2015.0,12.0,2.5,23.75,0.0,158.0,158.0,Poor
+Bhuj,Gujarat,RIRUO,14.0,22.0,90.0,187.0,31.0,2015-03-26,2015.0,3.0,17.5,27.5,0.0,158.0,158.0,Poor
+Bicholim,Goa,"Residential, Rural and other Areas",4.0,9.0,59.0,187.0,22.0,2015-12-30,2015.0,12.0,5.0,11.25,0.0,158.0,158.0,Poor
+Bidar,Karnataka,"Residential, Rural and other Areas",6.0,13.0,58.0,187.0,32.0,2015-03-28,2015.0,3.0,7.5,16.25,0.0,158.0,158.0,Poor
+Bijapur,Karnataka,"Residential, Rural and other Areas",2.0,20.0,132.0,187.0,32.0,2015-12-28,2015.0,12.0,2.5,25.0,0.0,158.0,158.0,Poor
+Bilaspur,Chhattisgarh,"Residential, Rural and other Areas",7.0,25.0,108.0,187.0,32.0,2015-12-29,2015.0,12.0,8.75,31.25,0.0,158.0,158.0,Poor
+Bombay,Maharashtra,"Residential, Rural and other Areas",6.5,35.2,90.0,162.0,32.0,2002-12-01,2011.0,7.0,8.125,44.00000000000001,0.0,141.33333333333331,141.33333333333331,Poor
+Bongaigaon,Assam,"Residential, Rural and other Areas",6.0,13.0,81.0,187.0,32.0,2015-12-31,2015.0,12.0,7.5,16.25,0.0,158.0,158.0,Poor
+Byrnihat,Meghalaya,Industrial Area,41.0,11.0,115.0,187.0,32.0,2015-08-26,2015.0,8.0,51.25,13.75,0.0,158.0,158.0,Poor
+Calcutta,West Bengal,"Residential, Rural and other Areas",18.0,72.0,130.0,187.0,32.0,2014-12-30,2014.0,12.0,22.5,90.0,0.0,158.0,158.0,Poor
+Champhai,Mizoram,"Residential, Rural and other Areas",2.0,5.0,29.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,6.25,0.0,158.0,158.0,Poor
+Chandarpur,Maharashtra,"Residential, Rural and other Areas",8.5,25.3,90.0,187.0,32.0,2002-03-01,2011.0,7.0,10.625,31.625,0.0,158.0,158.0,Poor
+Chandigarh,Chandigarh,"Residential, Rural and other Areas",2.0,60.0,116.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,75.0,0.0,158.0,158.0,Poor
+Chandrapur,Maharashtra,"Residential, Rural and other Areas",12.0,41.0,104.0,187.0,32.0,2015-12-31,2011.0,7.0,15.0,51.25,0.0,158.0,158.0,Poor
+Chennai,Tamil Nadu,"Residential, Rural and other Areas",10.0,14.0,123.0,187.0,32.0,2015-12-31,2015.0,12.0,12.5,17.5,0.0,158.0,158.0,Poor
+Chhindwara,Madhya Pradesh,Industrial Area,7.0,32.0,74.0,187.0,32.0,2015-08-31,2015.0,8.0,8.75,40.0,0.0,158.0,158.0,Poor
+Chitradurga,Karnataka,"Residential, Rural and other Areas",3.0,7.0,42.0,187.0,32.0,2015-12-28,2015.0,12.0,3.75,8.75,0.0,158.0,158.0,Poor
+Chittoor,Andhra Pradesh,"Residential, Rural and other Areas",5.0,11.0,59.0,187.0,32.0,2015-12-28,2015.0,12.0,6.25,13.75,0.0,158.0,158.0,Poor
+Chittorgarh,Rajasthan,Industrial Area,34.5,74.3,90.0,471.0,32.0,1999-02-01,2011.0,7.0,43.125,92.875,0.0,409.5348837209302,409.5348837209302,Hazardous
+Cochin,Kerala,Industrial Area,3.6,13.8,90.0,185.0,32.0,2002-12-01,2011.0,7.0,4.5,17.25,0.0,156.66666666666666,156.66666666666666,Poor
+Codli,Goa,"Residential, Rural and other Areas",4.0,9.0,60.0,187.0,21.0,2015-12-30,2015.0,12.0,5.0,11.25,0.0,158.0,158.0,Poor
+Coimbatore,Tamil Nadu,"Residential, Rural and other Areas",4.0,27.0,88.0,187.0,32.0,2015-12-31,2015.0,12.0,5.0,33.75,0.0,158.0,158.0,Poor
+Cuddalore,Tamil Nadu,"Residential, Rural and other Areas",12.0,18.0,53.0,187.0,36.0,2015-12-31,2015.0,12.0,15.0,22.5,0.0,158.0,158.0,Poor
+Cuncolim,Goa,Industrial Area,4.0,9.0,53.0,187.0,19.0,2015-12-29,2015.0,12.0,5.0,11.25,0.0,158.0,158.0,Poor
+Curchorem,Goa,"Residential, Rural and other Areas",4.0,10.0,76.0,187.0,27.0,2015-12-29,2015.0,12.0,5.0,12.5,0.0,158.0,158.0,Poor
+Cuttack,Odisha,"Residential, Rural and other Areas",4.0,35.0,173.0,187.0,80.0,2015-12-31,2015.0,12.0,5.0,43.75,0.0,158.0,158.0,Poor
+DANKUNI,West Bengal,RIRUO,18.0,44.0,227.0,187.0,32.0,2015-12-29,2015.0,12.0,22.5,55.0,0.0,158.0,158.0,Poor
+Daman,Daman & Diu,Industrial Area,19.0,31.0,81.0,187.0,30.0,2015-12-30,2015.0,12.0,23.75,38.75,0.0,158.0,158.0,Poor
+Daman Diu & Nagar,Daman & Diu,Industrial Area,4.0,4.3,90.0,100.0,32.0,1995-03-01,2011.0,7.0,5.0,5.375,0.0,100.0,100.0,Moderate
+Damtal,Himachal Pradesh,"Residential, Rural and other Areas",2.0,19.0,69.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,23.75,0.0,158.0,158.0,Poor
+Daranga,Assam,"Residential, Rural and other Areas",6.0,13.0,77.0,187.0,32.0,2015-12-28,2015.0,12.0,7.5,16.25,0.0,158.0,158.0,Poor
+Davangere,Karnataka,"Residential, Rural and other Areas",6.0,10.0,306.0,187.0,32.0,2015-12-29,2015.0,12.0,7.5,12.5,0.0,158.0,158.0,Poor
+Dawki,Meghalaya,"Residential, Rural and other Areas",2.0,10.0,17.0,187.0,32.0,2015-08-27,2015.0,8.0,2.5,12.5,0.0,158.0,158.0,Poor
+Dehradoon,Uttar Pradesh,Industrial Area,19.7,21.5,90.0,213.0,32.0,2002-12-01,2011.0,7.0,24.625,26.875,0.0,175.33333333333331,175.33333333333331,Poor
+Dehradun,Uttarakhand,"Residential, Rural and other Areas",26.0,30.0,327.0,187.0,32.0,2015-11-30,2015.0,11.0,32.5,37.5,0.0,158.0,158.0,Poor
+Delhi,Delhi,"Residential, Rural and other Areas",9.0,44.0,420.0,187.0,32.0,2015-12-31,2015.0,12.0,11.25,55.0,0.0,158.0,158.0,Poor
+Dera Baba,Punjab,"Residential, Rural and other Areas",8.0,14.0,73.0,187.0,32.0,2015-12-23,2015.0,12.0,10.0,17.5,0.0,158.0,158.0,Poor
+Dera Bassi,Punjab,Industrial Area,5.0,13.0,117.0,187.0,32.0,2015-12-31,2015.0,12.0,6.25,16.25,0.0,158.0,158.0,Poor
+Dewas,Madhya Pradesh,"Residential, Rural and other Areas",18.0,22.0,94.0,187.0,32.0,2015-12-30,2015.0,12.0,22.5,27.5,0.0,158.0,158.0,Poor
+Dhanbad,Jharkhand,"Residential, Rural and other Areas",11.0,38.0,75.0,187.0,32.0,2015-05-30,2015.0,5.0,13.75,47.5,0.0,158.0,158.0,Poor
+Dharamshala,Himachal Pradesh,"Residential, Rural and other Areas",2.0,7.0,32.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,8.75,0.0,158.0,158.0,Poor
+Dharuhera,Haryana,Industrial Area,37.8,32.1,90.0,339.0,32.0,1994-12-01,2011.0,7.0,47.25,40.125,0.0,289.0,289.0,Unhealthy
+Dharwad,Karnataka,Industrial Area,5.0,20.0,78.0,187.0,32.0,2015-12-31,2015.0,12.0,6.25,25.0,0.0,158.0,158.0,Poor
+Dibrugarh,Assam,"Residential, Rural and other Areas",7.0,18.0,132.0,187.0,32.0,2015-12-29,2015.0,12.0,8.75,22.5,0.0,158.0,158.0,Poor
+Dimapur,Nagaland,"Residential, Rural and other Areas",2.0,7.0,239.0,187.0,32.0,2015-12-17,2015.0,12.0,2.5,8.75,0.0,158.0,158.0,Poor
+Dombivli,Maharashtra,Industrial Area,28.0,55.0,151.0,187.0,32.0,2015-12-31,2015.0,12.0,35.0,68.75,0.0,158.0,158.0,Poor
+Domlur,Karnataka,"Residential, Rural and other Areas",7.0,13.0,71.0,187.0,32.0,2015-03-31,2015.0,3.0,8.75,16.25,0.0,158.0,158.0,Poor
+Durgapur,West Bengal,"Residential, Rural and other Areas",9.0,65.0,216.0,187.0,134.0,2015-12-30,2015.0,12.0,11.25,81.25,0.0,158.0,158.0,Poor
+Durgapur (WB),West Bengal,Residential and others,10.2,76.3,199.0,418.0,32.0,2009-12-30,2009.0,12.0,12.75,95.375,0.0,385.0,385.0,Very unhealthy
+Eluru,Andhra Pradesh,"Residential, Rural and other Areas",5.0,27.0,69.0,187.0,32.0,2015-12-28,2015.0,12.0,6.25,33.75,0.0,158.0,158.0,Poor
+Faridabad,Haryana,Industrial Area,26.0,35.0,90.0,187.0,32.0,2015-04-30,2015.0,4.0,32.5,43.75,0.0,158.0,158.0,Poor
+Faridkot,Punjab,"Residential, Rural and other Areas",4.0,12.0,87.0,187.0,32.0,2015-12-31,2015.0,12.0,5.0,15.0,0.0,158.0,158.0,Poor
+Firozabad,Uttar Pradesh,"Residential, Rural and other Areas",10.0,36.0,262.0,187.0,32.0,2015-12-31,2015.0,12.0,12.5,45.0,0.0,158.0,158.0,Poor
+Gajraula,Uttar Pradesh,Industrial Area,21.0,32.0,209.0,187.0,32.0,2015-12-31,2015.0,12.0,26.25,40.0,0.0,158.0,158.0,Poor
+Gajroula,Uttar Pradesh,Industrial Area,39.1,16.2,90.0,397.0,32.0,2002-12-01,2011.0,7.0,48.875,20.25,0.0,358.75,358.75,Very unhealthy
+Gangtok,Sikkim,Residential and others,19.8,26.8,32.0,75.0,32.0,2007-11-13,2007.0,11.0,24.75,33.5,0.0,75.0,75.0,Moderate
+Ghaziabad,Uttar Pradesh,Industrial Area,24.0,36.0,305.0,187.0,32.0,2015-12-31,2015.0,12.0,30.0,45.0,0.0,158.0,158.0,Poor
+Gobindgarh,Punjab,"Residential, Rural and other Areas",7.0,34.0,147.0,187.0,32.0,2015-12-30,2015.0,12.0,8.75,42.5,0.0,158.0,158.0,Poor
+Golaghat,Assam,"Residential, Rural and other Areas",8.0,16.0,110.0,187.0,32.0,2015-12-29,2015.0,12.0,10.0,20.0,0.0,158.0,158.0,Poor
+Gorakhpur,Uttar Pradesh,"Residential, Rural and other Areas",24.0,45.0,205.0,187.0,32.0,2015-12-31,2015.0,12.0,30.0,56.25,0.0,158.0,158.0,Poor
+Greater Mumbai,Maharashtra,Industrial Areas,33.2,71.0,48.0,187.0,32.0,2008-12-06,2008.0,6.0,41.5,88.75,0.0,158.0,158.0,Poor
+Gulbarga,Karnataka,Sensitive Area,8.0,22.0,73.0,187.0,32.0,2015-12-29,2015.0,12.0,10.0,27.5,0.0,158.0,158.0,Poor
+Guntur,Andhra Pradesh,"Residential, Rural and other Areas",5.0,28.0,87.0,187.0,32.0,2015-12-28,2015.0,12.0,6.25,35.0,0.0,158.0,158.0,Poor
+Guwahati,Tripura,"Residential, Rural and other Areas",8.0,22.0,90.0,187.0,32.0,2015-12-31,2011.0,7.0,10.0,27.5,0.0,158.0,158.0,Poor
+Gwalior,Madhya Pradesh,"Residential, Rural and other Areas",8.0,12.0,98.0,187.0,61.1,2015-10-29,2015.0,10.0,10.0,15.0,0.0,158.0,158.0,Poor
+HALDIA,West Bengal,RIRUO,24.0,50.0,186.0,187.0,32.0,2015-12-29,2015.0,12.0,30.0,62.5,0.0,158.0,158.0,Poor
+Hailakandi,Assam,Residential and others,5.8,14.8,70.0,127.0,32.0,2009-12-03,2009.0,3.0,7.25,18.5,0.0,118.0,118.0,Poor
+Haldia,West Bengal,Industrial Area,2.0,14.0,106.0,187.0,32.0,2015-12-29,2015.0,12.0,2.5,17.5,0.0,158.0,158.0,Poor
+Haldwani,Uttarakhand,"Residential, Rural and other Areas",8.0,22.0,132.0,187.0,32.0,2015-12-28,2015.0,12.0,10.0,27.5,0.0,158.0,158.0,Poor
+Haridwar,Uttarakhand,Industrial Area,24.0,26.0,129.0,187.0,32.0,2015-12-31,2015.0,12.0,30.0,32.5,0.0,158.0,158.0,Poor
+Hassan,Karnataka,"Residential, Rural and other Areas",6.0,19.0,27.0,187.0,32.0,2015-12-29,2015.0,12.0,7.5,23.75,0.0,158.0,158.0,Poor
+Hisar,Haryana,"Residential, Rural and other Areas",5.0,5.0,0.0,187.0,32.0,2012-12-07,2012.0,7.0,6.25,6.25,0.0,158.0,158.0,Poor
+Honda,Goa,"Residential, Rural and other Areas",5.0,9.0,64.0,187.0,24.0,2015-12-30,2015.0,12.0,6.25,11.25,0.0,158.0,158.0,Poor
+Hoshiarpur,Punjab,"Residential, Rural and other Areas",7.0,19.0,132.0,187.0,32.0,2015-12-30,2015.0,12.0,8.75,23.75,0.0,158.0,158.0,Poor
+Howrah,West Bengal,"Residential, Rural and other Areas",16.0,44.0,164.0,187.0,93.0,2015-12-29,2015.0,12.0,20.0,55.0,0.0,158.0,158.0,Poor
+Hubli,Karnataka,"Residential, Rural and other Areas",5.0,20.0,92.0,187.0,32.0,2015-12-31,2015.0,12.0,6.25,25.0,0.0,158.0,158.0,Poor
+Hubli-Dharwad,Karnataka,Residential and others,3.9,11.6,152.0,301.0,32.0,2009-12-11,2009.0,11.0,4.875,14.5,0.0,251.0,251.0,Unhealthy
+Hyderabad,Telangana,"Residential, Rural and other Areas",4.0,19.0,118.0,187.0,32.0,2015-12-29,2015.0,12.0,5.0,23.75,0.0,158.0,158.0,Poor
+Imphal,Manipur,Residential and others,4.2,14.0,125.0,247.0,32.0,2008-12-05,2008.0,5.0,5.25,17.5,0.0,198.0,198.0,Poor
+Indore,Madhya Pradesh,"Residential, Rural and other Areas",10.0,20.0,132.0,187.0,32.0,2015-12-31,2015.0,12.0,12.5,25.0,0.0,158.0,158.0,Poor
+Itanagar,Arunachal Pradesh,"Residential, Rural and other Areas",7.0,11.0,111.0,187.0,32.0,2015-12-22,2015.0,12.0,8.75,13.75,0.0,158.0,158.0,Poor
+Jabalpur,Madhya Pradesh,Industrial Area,15.0,32.0,112.0,187.0,41.0,2015-03-26,2015.0,3.0,18.75,40.0,0.0,158.0,158.0,Poor
+Jaipur,Rajasthan,"Residential, Rural and other Areas",9.0,39.0,105.0,187.0,32.0,2015-12-31,2015.0,12.0,11.25,48.75,0.0,158.0,158.0,Poor
+Jalandhar,Punjab,Industrial Area,15.0,29.0,337.0,187.0,32.0,2015-12-30,2015.0,12.0,18.75,36.25,0.0,158.0,158.0,Poor
+Jalgaon,Maharashtra,Industrial Area,14.0,38.0,122.0,187.0,32.0,2015-12-31,2015.0,12.0,17.5,47.5,0.0,158.0,158.0,Poor
+Jalna,Maharashtra,"Residential, Rural and other Areas",14.0,27.0,101.0,187.0,32.0,2015-12-31,2015.0,12.0,17.5,33.75,0.0,158.0,158.0,Poor
+Jammu,Jammu & Kashmir,"Residential, Rural and other Areas",2.0,18.0,133.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,22.5,0.0,158.0,158.0,Poor
+Jamnagar,Gujarat,"Residential, Rural and other Areas",13.0,20.0,78.0,187.0,25.0,2015-03-27,2015.0,3.0,16.25,25.0,0.0,158.0,158.0,Poor
+Jamshedpur,Jharkhand,Industrial Area,33.0,40.0,112.0,187.0,32.0,2015-07-30,2015.0,7.0,41.25,50.0,0.0,158.0,158.0,Poor
+Jhansi,Uttar Pradesh,"Residential, Rural and other Areas",7.0,19.0,104.0,187.0,32.0,2015-12-31,2015.0,12.0,8.75,23.75,0.0,158.0,158.0,Poor
+Jharia,Jharkhand,Industrial Area,12.0,38.0,222.0,187.0,32.0,2015-05-30,2015.0,5.0,15.0,47.5,0.0,158.0,158.0,Poor
+Jodhpur,Rajasthan,"Residential, Rural and other Areas",6.0,36.0,175.0,187.0,32.0,2015-12-31,2015.0,12.0,7.5,45.0,0.0,158.0,158.0,Poor
+Kadapa,Andhra Pradesh,Industrial Area,5.0,11.0,55.0,187.0,32.0,2015-12-28,2015.0,12.0,6.25,13.75,0.0,158.0,158.0,Poor
+Kakinada,Andhra Pradesh,"Residential, Rural and other Areas",7.0,17.0,63.0,187.0,32.0,2015-12-25,2015.0,12.0,8.75,21.25,0.0,158.0,158.0,Poor
+Kala Amb,Himachal Pradesh,"Residential, Rural and other Areas",2.0,14.0,102.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,17.5,0.0,158.0,158.0,Poor
+Kalinga Nagar,Odisha,Industrial Area,2.0,10.0,97.0,187.0,38.0,2015-12-29,2015.0,12.0,2.5,12.5,0.0,158.0,158.0,Poor
+Kalyani,West Bengal,RIRUO,3.0,49.0,193.0,187.0,32.0,2015-12-25,2015.0,12.0,3.75,61.25,0.0,158.0,158.0,Poor
+Kanpur,Uttar Pradesh,"Residential, Rural and other Areas",6.0,56.0,239.0,187.0,32.0,2015-12-31,2015.0,12.0,7.5,70.0,0.0,158.0,158.0,Poor
+Karaikal,Puducherry,"Residential, Rural and other Areas",16.0,10.0,42.0,187.0,32.0,2015-12-31,2015.0,12.0,20.0,12.5,0.0,158.0,158.0,Poor
+Karimnagar,Telangana,"Residential, Rural and other Areas",8.0,25.0,79.0,187.0,32.0,2015-12-29,2015.0,12.0,10.0,31.25,0.0,158.0,158.0,Poor
+Kashipur,Uttarakhand,"Residential, Rural and other Areas",8.0,22.0,112.0,187.0,32.0,2015-12-30,2015.0,12.0,10.0,27.5,0.0,158.0,158.0,Poor
+Keonjhar,Odisha,"Residential, Rural and other Areas",2.0,16.0,159.0,187.0,109.0,2015-12-31,2015.0,12.0,2.5,20.0,0.0,158.0,158.0,Poor
+Khadoli,Dadra & Nagar Haveli,Industrial Area,19.0,31.0,81.0,187.0,30.0,2015-12-30,2015.0,12.0,23.75,38.75,0.0,158.0,158.0,Poor
+Khajuraho,Madhya Pradesh,Residential and others,8.0,6.0,56.0,69.0,32.0,2006-11-01,2006.0,1.0,10.0,7.5,0.0,69.0,69.0,Moderate
+Khammam,Telangana,"Residential, Rural and other Areas",7.0,13.0,72.0,187.0,32.0,2015-12-29,2015.0,12.0,8.75,16.25,0.0,158.0,158.0,Poor
+Khanna,Punjab,Industrial Area,11.0,24.0,95.0,187.0,32.0,2015-12-31,2015.0,12.0,13.75,30.0,0.0,158.0,158.0,Poor
+Khliehriat,Meghalaya,"Residential, Rural and other Areas",2.0,5.0,38.0,187.0,32.0,2015-08-26,2015.0,8.0,2.5,6.25,0.0,158.0,158.0,Poor
+Khurja,Uttar Pradesh,Industrial Area,24.0,24.0,194.0,187.0,32.0,2015-12-31,2015.0,12.0,30.0,30.0,0.0,158.0,158.0,Poor
+Kochi,Kerala,Industrial Area,2.0,57.0,30.0,187.0,32.0,2015-12-29,2015.0,12.0,2.5,71.25,0.0,158.0,158.0,Poor
+Kohima,Nagaland,"Residential, Rural and other Areas",2.0,5.0,125.0,187.0,32.0,2015-12-17,2015.0,12.0,2.5,6.25,0.0,158.0,158.0,Poor
+Kolar,Karnataka,"Residential, Rural and other Areas",6.0,16.0,78.0,187.0,32.0,2015-02-27,2015.0,2.0,7.5,20.0,0.0,158.0,158.0,Poor
+Kolasib,Mizoram,"Residential, Rural and other Areas",2.0,5.0,44.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,6.25,0.0,158.0,158.0,Poor
+Kolhapur,Maharashtra,"Residential, Rural and other Areas",15.0,33.0,73.0,187.0,32.0,2015-12-31,2015.0,12.0,18.75,41.25,0.0,158.0,158.0,Poor
+Kolkata,West Bengal,"Residential, Rural and other Areas",2.0,46.0,173.0,187.0,32.0,2015-12-27,2015.0,12.0,2.5,57.5,0.0,158.0,158.0,Poor
+Kollam,Kerala,Industrial Area,4.0,7.0,45.0,187.0,32.0,2015-12-31,2015.0,12.0,5.0,8.75,0.0,158.0,158.0,Poor
+Konark,Odisha,"Residential, Rural and other Areas",2.0,18.0,127.0,187.0,55.0,2015-12-31,2015.0,12.0,2.5,22.5,0.0,158.0,158.0,Poor
+Korba,Chhattisgarh,"Residential, Rural and other Areas",12.0,20.0,90.0,187.0,32.0,2015-12-31,2015.0,12.0,15.0,25.0,0.0,158.0,158.0,Poor
+Kota,Rajasthan,Industrial Area,7.0,45.0,318.0,187.0,32.0,2015-12-31,2015.0,12.0,8.75,56.25,0.0,158.0,158.0,Poor
+Kothur,Telangana,Industrial Area,12.0,29.0,139.0,187.0,32.0,2015-12-29,2015.0,12.0,15.0,36.25,0.0,158.0,158.0,Poor
+Kottayam,Kerala,Industrial Area,5.0,19.0,87.0,187.0,32.0,2015-12-30,2015.0,12.0,6.25,23.75,0.0,158.0,158.0,Poor
+Kotttayam,Kerala,"Residential, Rural and other Areas",2.0,11.1,90.0,187.0,32.0,2002-12-01,2011.0,7.0,2.5,13.875,0.0,158.0,158.0,Poor
+Kozhikode,Kerala,"Residential, Rural and other Areas",2.0,24.0,96.0,187.0,32.0,2015-12-28,2015.0,12.0,2.5,30.0,0.0,158.0,158.0,Poor
+Kundaim,Goa,Industrial Area,4.0,9.0,58.0,187.0,18.0,2015-12-30,2015.0,12.0,5.0,11.25,0.0,158.0,158.0,Poor
+Kurnool,Andhra Pradesh,"Residential, Rural and other Areas",5.0,12.0,75.0,187.0,32.0,2015-12-28,2015.0,12.0,6.25,15.0,0.0,158.0,158.0,Poor
+Lakhimpur,Assam,"Residential, Rural and other Areas",7.0,21.0,118.0,187.0,32.0,2015-12-24,2015.0,12.0,8.75,26.25,0.0,158.0,158.0,Poor
+Latur,Maharashtra,"Residential, Rural and other Areas",5.0,15.0,128.0,187.0,32.0,2015-12-31,2015.0,12.0,6.25,18.75,0.0,158.0,158.0,Poor
+Lote,Maharashtra,Industrial Area,11.0,12.0,177.0,187.0,32.0,2015-05-29,2015.0,5.0,13.75,15.0,0.0,158.0,158.0,Poor
+Lucknow,Uttar Pradesh,Industrial Area,14.0,46.0,268.0,187.0,32.0,2015-12-31,2015.0,12.0,17.5,57.5,0.0,158.0,158.0,Poor
+Ludhiana,Punjab,Industrial Area,11.0,19.0,105.0,187.0,32.0,2015-12-31,2015.0,12.0,13.75,23.75,0.0,158.0,158.0,Poor
+Lunglei,Mizoram,"Residential, Rural and other Areas",2.0,5.0,54.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,6.25,0.0,158.0,158.0,Poor
+MALDAH,West Bengal,RIRUO,3.0,20.0,126.0,187.0,32.0,2015-12-29,2015.0,12.0,3.75,25.0,0.0,158.0,158.0,Poor
+MORBI,Gujarat,RIRUO,15.0,21.0,90.0,187.0,34.0,2015-03-27,2015.0,3.0,18.75,26.25,0.0,158.0,158.0,Poor
+Madras,Tamil Nadu,"Residential, Rural and other Areas",6.1,12.8,90.0,87.0,32.0,2002-12-01,2011.0,7.0,7.625,16.0,0.0,87.0,87.0,Moderate
+Madurai,Tamil Nadu,"Residential, Rural and other Areas",9.0,23.0,58.0,187.0,32.0,2015-12-31,2015.0,12.0,11.25,28.75,0.0,158.0,158.0,Poor
+Mahad,Maharashtra,"Residential, Rural and other Areas",15.0,33.0,396.0,187.0,32.0,2011-12-26,2011.0,12.0,18.75,41.25,0.0,158.0,158.0,Poor
+Malappuram,Kerala,Industrial Area,2.0,15.0,58.0,187.0,32.0,2015-12-29,2015.0,12.0,2.5,18.75,0.0,158.0,158.0,Poor
+Manali,Himachal Pradesh,"Residential, Rural and other Areas",2.0,12.0,43.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,15.0,0.0,158.0,158.0,Poor
+Mandya,Karnataka,"Residential, Rural and other Areas",6.0,20.0,31.0,187.0,32.0,2015-12-28,2015.0,12.0,7.5,25.0,0.0,158.0,158.0,Poor
+Mangalore,Karnataka,Industrial Area,6.0,4.0,29.0,187.0,32.0,2015-12-29,2015.0,12.0,7.5,5.0,0.0,158.0,158.0,Poor
+Mapusa,Goa,"Residential, Rural and other Areas",4.0,8.0,127.0,187.0,32.0,2015-12-31,2015.0,12.0,5.0,10.0,0.0,158.0,158.0,Poor
+Margao,Goa,"Residential, Rural and other Areas",4.0,10.0,68.0,187.0,21.0,2015-12-29,2015.0,12.0,5.0,12.5,0.0,158.0,158.0,Poor
+Margherita,Assam,"Residential, Rural and other Areas",8.0,21.0,126.0,187.0,32.0,2015-12-29,2015.0,12.0,10.0,26.25,0.0,158.0,158.0,Poor
+Mathura,Uttar Pradesh,Industrial Area,23.0,25.0,192.0,187.0,32.0,2012-12-01,2012.0,1.0,28.75,31.25,0.0,158.0,158.0,Poor
+Meerut,Uttar Pradesh,"Residential, Rural and other Areas",6.0,37.0,127.0,187.0,32.0,2012-12-10,2012.0,10.0,7.5,46.25,0.0,158.0,158.0,Poor
+Mettur,Tamil Nadu,"Residential, Rural and other Areas",6.0,20.0,68.0,187.0,32.0,2015-12-31,2015.0,12.0,7.5,25.0,0.0,158.0,158.0,Poor
+Moradabad,Uttar Pradesh,"Residential, Rural and other Areas",22.0,36.0,244.0,187.0,32.0,2015-11-30,2015.0,11.0,27.5,45.0,0.0,158.0,158.0,Poor
+Mormugao,Goa,Industrial Areas,2.7,11.2,89.0,237.0,32.0,2009-12-05,2009.0,5.0,3.375,14.0,0.0,191.33333333333331,191.33333333333331,Poor
+Mumbai,Maharashtra,Industrial Area,9.0,37.0,213.0,187.0,32.0,2015-12-29,2015.0,12.0,11.25,46.25,0.0,158.0,158.0,Poor
+Mysore,Karnataka,"Residential, Rural and other Areas",7.0,23.0,46.0,187.0,32.0,2015-12-29,2015.0,12.0,8.75,28.75,0.0,158.0,158.0,Poor
+Nagaon,Assam,"Residential, Rural and other Areas",7.0,19.0,114.0,187.0,32.0,2015-12-28,2015.0,12.0,8.75,23.75,0.0,158.0,158.0,Poor
+Nagda,Madhya Pradesh,Industrial Area,31.0,20.0,62.0,187.0,42.0,2015-12-31,2015.0,12.0,38.75,25.0,0.0,158.0,158.0,Poor
+Nagpur,Maharashtra,"Residential, Rural and other Areas",12.0,38.0,51.0,187.0,32.0,2015-12-31,2015.0,12.0,15.0,47.5,0.0,158.0,158.0,Poor
+Nahan,Himachal Pradesh,Residential and others,8.0,15.6,90.0,160.0,32.0,2009-12-31,2009.0,12.0,10.0,19.5,0.0,140.0,140.0,Poor
+Naharlagun,Arunachal Pradesh,"Residential, Rural and other Areas",6.0,5.0,109.0,187.0,32.0,2015-12-22,2015.0,12.0,7.5,6.25,0.0,158.0,158.0,Poor
+Nalagarh,Himachal Pradesh,"Residential, Rural and other Areas",2.0,26.0,108.0,187.0,32.0,2015-12-30,2015.0,12.0,2.5,32.5,0.0,158.0,158.0,Poor
+Nalbari,Assam,"Residential, Rural and other Areas",5.0,20.0,101.0,187.0,32.0,2015-12-29,2015.0,12.0,6.25,25.0,0.0,158.0,158.0,Poor
+Nalco,Odisha,"Residential, Rural and other Areas",3.2,21.0,90.0,152.0,32.0,2002-12-01,2011.0,7.0,4.0,26.25,0.0,134.66666666666666,134.66666666666666,Poor
+Nalgonda,Telangana,"Residential, Rural and other Areas",6.0,27.0,61.0,187.0,32.0,2015-12-29,2015.0,12.0,7.5,33.75,0.0,158.0,158.0,Poor
+Nanded,Maharashtra,"Residential, Rural and other Areas",26.0,27.0,114.0,187.0,32.0,2015-12-31,2015.0,12.0,32.5,33.75,0.0,158.0,158.0,Poor
+Nashik,Maharashtra,"Residential, Rural and other Areas",13.0,26.0,63.0,187.0,32.0,2015-12-31,2015.0,12.0,16.25,32.5,0.0,158.0,158.0,Poor
+Navi Mumbai,Maharashtra,Industrial Area,16.0,37.0,170.0,187.0,32.0,2015-12-31,2015.0,12.0,20.0,46.25,0.0,158.0,158.0,Poor
+Naya Nangal,Punjab,"Residential, Rural and other Areas",5.0,12.0,124.0,187.0,32.0,2015-12-30,2015.0,12.0,6.25,15.0,0.0,158.0,158.0,Poor
+Nellore,Andhra Pradesh,"Residential, Rural and other Areas",5.0,28.0,61.0,187.0,32.0,2015-12-28,2015.0,12.0,6.25,35.0,0.0,158.0,158.0,Poor
+Nizamabad,Andhra Pradesh,"Residential, Rural and other Areas",5.0,12.0,56.0,187.0,32.0,2013-12-29,2013.0,12.0,6.25,15.0,0.0,158.0,158.0,Poor
+Noida,Uttar Pradesh,"Residential, Rural and other Areas",10.0,29.0,154.0,187.0,32.0,2015-12-29,2015.0,12.0,12.5,36.25,0.0,158.0,158.0,Poor
+"Noida, Ghaziabad",Uttar Pradesh,"Residential, Rural and other Areas",8.0,22.0,90.0,187.0,32.0,1995-08-01,2011.0,7.0,10.0,27.5,0.0,158.0,158.0,Poor
+Nongstoin,Meghalaya,"Residential, Rural and other Areas",2.0,11.0,22.0,187.0,32.0,2015-08-26,2015.0,8.0,2.5,13.75,0.0,158.0,158.0,Poor
+Ongole,Andhra Pradesh,"Residential, Rural and other Areas",5.0,29.0,64.0,187.0,32.0,2015-12-28,2015.0,12.0,6.25,36.25,0.0,158.0,158.0,Poor
+Palakkad,Kerala,Industrial Area,2.0,8.0,61.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,10.0,0.0,158.0,158.0,Poor
+Panaji,Goa,"Residential, Rural and other Areas",4.0,36.0,87.0,187.0,32.0,2015-12-30,2015.0,12.0,5.0,45.0,0.0,158.0,158.0,Poor
+Panjim,Goa,"Residential, Rural and other Areas",0.0,0.0,0.0,0.0,32.0,2003-12-09,2003.0,9.0,0.0,0.0,0.0,0.0,0.0,Good
+Paonta Sahib,Himachal Pradesh,Industrial Area,3.0,16.0,182.0,187.0,32.0,2015-12-29,2015.0,12.0,3.75,20.0,0.0,158.0,158.0,Poor
+Paradeep,Odisha,"Residential, Rural and other Areas",20.0,15.0,111.0,187.0,32.0,2015-12-30,2015.0,12.0,25.0,18.75,0.0,158.0,158.0,Poor
+Parwanoo,Himachal Pradesh,Industrial Area,2.0,11.0,77.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,13.75,0.0,158.0,158.0,Poor
+Patancheru,Telangana,"Residential, Rural and other Areas",6.0,27.0,89.0,187.0,32.0,2015-12-29,2015.0,12.0,7.5,33.75,0.0,158.0,158.0,Poor
+Pathanamthitta,Kerala,"Residential, Rural and other Areas",2.0,15.0,26.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,18.75,0.0,158.0,158.0,Poor
+Patiala,Punjab,"Residential, Rural and other Areas",5.0,13.0,102.0,187.0,32.0,2015-12-31,2015.0,12.0,6.25,16.25,0.0,158.0,158.0,Poor
+Patna,Bihar,"Residential, Rural and other Areas",3.0,26.0,168.0,187.0,32.0,2012-12-31,2012.0,12.0,3.75,32.5,0.0,158.0,158.0,Poor
+Pithampur,Madhya Pradesh,Industrial Area,9.0,18.0,132.0,187.0,32.0,2015-12-31,2015.0,12.0,11.25,22.5,0.0,158.0,158.0,Poor
+Ponda,Goa,"Residential, Rural and other Areas",4.0,9.0,53.0,187.0,21.0,2015-12-29,2015.0,12.0,5.0,11.25,0.0,158.0,158.0,Poor
+Pondicherry,Puducherry,"Residential, Rural and other Areas",6.0,12.0,31.0,187.0,32.0,2015-12-31,2015.0,12.0,7.5,15.0,0.0,158.0,158.0,Poor
+Pondichery,Puducherry,Industrial Area,15.2,18.4,90.0,8.0,32.0,2002-12-01,2011.0,7.0,19.0,22.999999999999996,0.0,8.0,22.999999999999996,Good
+Pune,Maharashtra,"Residential, Rural and other Areas",50.0,98.0,202.0,187.0,32.0,2015-12-31,2015.0,12.0,62.5,118.0,0.0,158.0,158.0,Poor
+Puri,Odisha,"Residential, Rural and other Areas",2.0,21.0,170.0,187.0,76.0,2015-12-31,2015.0,12.0,2.5,26.25,0.0,158.0,158.0,Poor
+Rai Bareilly,Uttar Pradesh,Industrial Area,10.0,17.0,164.0,187.0,32.0,2015-12-29,2015.0,12.0,12.5,21.25,0.0,158.0,158.0,Poor
+Raichur,Karnataka,"Residential, Rural and other Areas",7.0,16.0,74.0,187.0,32.0,2015-07-30,2015.0,7.0,8.75,20.0,0.0,158.0,158.0,Poor
+Raipur,Chhattisgarh,"Residential, Rural and other Areas",13.0,34.0,163.0,187.0,32.0,2015-12-29,2015.0,12.0,16.25,42.5,0.0,158.0,158.0,Poor
+Rajahmundry,Andhra Pradesh,Industrial Area,6.0,17.0,71.0,187.0,32.0,2015-12-25,2015.0,12.0,7.5,21.25,0.0,158.0,158.0,Poor
+Rajkot,Gujarat,Industrial Area,14.0,20.0,78.0,187.0,30.0,2015-03-26,2015.0,3.0,17.5,25.0,0.0,158.0,158.0,Poor
+Ramagundam,Telangana,"Residential, Rural and other Areas",10.0,34.0,64.0,187.0,32.0,2015-12-29,2015.0,12.0,12.5,42.5,0.0,158.0,158.0,Poor
+Ranchi,Jharkhand,"Residential, Rural and other Areas",20.0,39.0,187.0,187.0,32.0,2015-12-30,2015.0,12.0,25.0,48.75,0.0,158.0,158.0,Poor
+Ranebennur,Karnataka,Industrial Area,2.0,5.0,55.0,187.0,32.0,2015-12-29,2015.0,12.0,2.5,6.25,0.0,158.0,158.0,Poor
+Raniganj,West Bengal,Industrial Area,12.0,72.0,248.0,187.0,32.0,2015-12-30,2015.0,12.0,15.0,90.0,0.0,158.0,158.0,Poor
+Rayagada,Odisha,"Residential, Rural and other Areas",4.0,22.0,56.0,187.0,22.0,2015-12-30,2015.0,12.0,5.0,27.5,0.0,158.0,158.0,Poor
+Renusagar,Uttar Pradesh,Industrial Area,18.0,28.0,145.0,187.0,32.0,2015-12-30,2015.0,12.0,22.5,35.0,0.0,158.0,158.0,Poor
+Rishikesh,Uttarakhand,"Residential, Rural and other Areas",24.0,27.0,101.0,187.0,32.0,2015-11-30,2015.0,11.0,30.0,33.75,0.0,158.0,158.0,Poor
+Roha,Maharashtra,Industrial Area,18.0,32.0,56.0,187.0,32.0,2011-12-17,2011.0,12.0,22.5,40.0,0.0,158.0,158.0,Poor
+Rourkela,Odisha,"Residential, Rural and other Areas",7.0,14.0,105.0,187.0,44.0,2015-12-31,2015.0,12.0,8.75,17.5,0.0,158.0,158.0,Poor
+Rudrapur,Uttarakhand,Industrial Area,8.0,22.0,128.0,187.0,32.0,2015-12-30,2015.0,12.0,10.0,27.5,0.0,158.0,158.0,Poor
+SANAND,Gujarat,RIRUO,14.0,21.0,100.0,187.0,34.0,2015-03-26,2015.0,3.0,17.5,26.25,0.0,158.0,158.0,Poor
+SILIGURI,West Bengal,RIRUO,2.0,16.0,102.0,187.0,32.0,2015-12-30,2015.0,12.0,2.5,20.0,0.0,158.0,158.0,Poor
+Sagar,Madhya Pradesh,"Residential, Rural and other Areas",2.0,11.0,108.0,187.0,54.16,2015-12-29,2015.0,12.0,2.5,13.75,0.0,158.0,158.0,Poor
+Saharanpur,Uttar Pradesh,"Residential, Rural and other Areas",31.0,22.0,38.0,187.0,32.0,2011-11-08,2011.0,8.0,38.75,27.5,0.0,158.0,158.0,Poor
+Salem,Tamil Nadu,"Residential, Rural and other Areas",7.0,29.0,47.0,187.0,14.0,2015-12-30,2015.0,12.0,8.75,36.25,0.0,158.0,158.0,Poor
+Sambalpur,Odisha,"Residential, Rural and other Areas",5.0,19.0,84.0,187.0,48.0,2015-12-30,2015.0,12.0,6.25,23.75,0.0,158.0,158.0,Poor
+Sangareddy,Telangana,"Residential, Rural and other Areas",5.0,24.0,80.0,187.0,32.0,2015-12-29,2015.0,12.0,6.25,30.0,0.0,158.0,158.0,Poor
+Sangli,Maharashtra,"Residential, Rural and other Areas",10.0,51.0,140.0,187.0,32.0,2015-12-31,2015.0,12.0,12.5,63.75,0.0,158.0,158.0,Poor
+Sangrur,Punjab,"Residential, Rural and other Areas",4.0,13.0,102.0,187.0,32.0,2015-12-31,2015.0,12.0,5.0,16.25,0.0,158.0,158.0,Poor
+Sanguem,Goa,"Residential, Rural and other Areas",4.0,10.0,62.0,187.0,19.0,2015-12-29,2015.0,12.0,5.0,12.5,0.0,158.0,158.0,Poor
+Sankrail,West Bengal,Industrial Area,15.0,71.0,187.0,187.0,32.0,2011-12-30,2011.0,12.0,18.75,88.75,0.0,158.0,158.0,Poor
+Saraikela Kharsawan,Jharkhand,"Residential, Rural and other Areas",34.0,41.0,96.0,187.0,32.0,2015-07-30,2015.0,7.0,42.5,51.25,0.0,158.0,158.0,Poor
+Sarigam,Gujarat,RIRUO,14.0,21.0,93.0,187.0,31.0,2015-03-27,2015.0,3.0,17.5,26.25,0.0,158.0,158.0,Poor
+Satna,Madhya Pradesh,"Residential, Rural and other Areas",8.0,22.0,49.0,187.0,32.0,2015-09-28,2015.0,9.0,10.0,27.5,0.0,158.0,158.0,Poor
+Shillong,Meghalaya,"Residential, Rural and other Areas",2.0,5.0,26.0,187.0,32.0,2015-08-27,2015.0,8.0,2.5,6.25,0.0,158.0,158.0,Poor
+Shimla,Himachal Pradesh,"Residential, Rural and other Areas",3.666666667,15.76666667,59.8,187.0,32.0,2015-12-31,2015.0,12.0,4.58333333375,19.7083333375,0.0,158.0,158.0,Poor
+Shimoga,Karnataka,Industrial Area,4.0,7.0,43.0,187.0,32.0,2015-12-28,2015.0,12.0,5.0,8.75,0.0,158.0,158.0,Poor
+Sibsagar,Assam,Residential and others,4.3,12.5,114.0,230.0,32.0,2009-12-06,2009.0,6.0,5.375,15.625,0.0,186.66666666666666,186.66666666666666,Poor
+Silchar,Assam,Residential and others,3.8,13.3,39.0,60.0,32.0,2009-12-09,2009.0,9.0,4.75,16.625,0.0,60.0,60.0,Moderate
+Silcher,Assam,"Residential, Rural and other Areas",9.0,22.0,73.0,187.0,32.0,2015-12-26,2015.0,12.0,11.25,27.5,0.0,158.0,158.0,Poor
+Silvassa,Dadra & Nagar Haveli,Industrial Areas,7.3,17.4,80.0,278.0,32.0,2009-12-31,2009.0,12.0,9.125,21.749999999999996,0.0,228.0,228.0,Unhealthy
+Sindri,Jharkhand,Industrial Area,14.0,35.0,77.0,187.0,32.0,2015-05-30,2015.0,5.0,17.5,43.75,0.0,158.0,158.0,Poor
+Singrauli,Madhya Pradesh,"Residential, Rural and other Areas",13.0,15.0,91.0,187.0,42.0,2015-12-31,2015.0,12.0,16.25,18.75,0.0,158.0,158.0,Poor
+Sivasagar,Assam,"Residential, Rural and other Areas",9.0,17.0,71.0,187.0,32.0,2015-12-31,2015.0,12.0,11.25,21.25,0.0,158.0,158.0,Poor
+Solapur,Maharashtra,Industrial Area,13.0,35.0,74.0,187.0,32.0,2015-12-31,2015.0,12.0,16.25,43.75,0.0,158.0,158.0,Poor
+South Suburban,West Bengal,"Residential, Rural and other Areas",3.0,50.0,173.0,187.0,32.0,2015-12-26,2015.0,12.0,3.75,62.5,0.0,158.0,158.0,Poor
+Srikakulam,Andhra Pradesh,Industrial Area,7.0,20.0,81.0,187.0,32.0,2015-12-25,2015.0,12.0,8.75,25.0,0.0,158.0,158.0,Poor
+Sunder Nagar,Himachal Pradesh,"Residential, Rural and other Areas",2.0,8.0,33.0,187.0,32.0,2015-12-31,2015.0,12.0,2.5,10.0,0.0,158.0,158.0,Poor
+Surat,Gujarat,Industrial Area,15.0,21.0,91.0,187.0,30.0,2015-03-26,2015.0,3.0,18.75,26.25,0.0,158.0,158.0,Poor
+Talcher,Odisha,Industrial Area,11.0,27.0,171.0,187.0,88.0,2015-12-29,2015.0,12.0,13.75,33.75,0.0,158.0,158.0,Poor
+Tarapur,Maharashtra,Industrial Areas,25.5,39.8,105.0,137.0,32.0,2008-12-06,2008.0,6.0,31.875,49.74999999999999,0.0,124.66666666666666,124.66666666666666,Poor
+Tezpur,Assam,"Residential, Rural and other Areas",9.0,17.0,114.0,187.0,32.0,2015-12-28,2015.0,12.0,11.25,21.25,0.0,158.0,158.0,Poor
+Thane,Maharashtra,"Residential, Rural and other Areas",22.0,63.0,115.0,187.0,32.0,2015-12-31,2015.0,12.0,27.5,78.75,0.0,158.0,158.0,Poor
+Thiruvananthapuram,Kerala,Industrial Area,18.0,27.0,59.0,187.0,32.0,2015-12-31,2015.0,12.0,22.5,33.75,0.0,158.0,158.0,Poor
+Thissur,Kerala,"Residential, Rural and other Areas",2.0,5.0,59.0,187.0,32.0,2015-12-30,2015.0,12.0,2.5,6.25,0.0,158.0,158.0,Poor
+Thoothukudi,Tamil Nadu,Industrial Area,14.0,21.0,101.0,187.0,32.0,2015-10-31,2015.0,10.0,17.5,26.25,0.0,158.0,158.0,Poor
+Tilamol,Goa,"Residential, Rural and other Areas",4.0,9.0,59.0,187.0,19.0,2015-12-29,2015.0,12.0,5.0,11.25,0.0,158.0,158.0,Poor
+Tinsukia,Assam,"Residential, Rural and other Areas",7.0,24.0,176.0,187.0,32.0,2015-12-29,2015.0,12.0,8.75,30.0,0.0,158.0,158.0,Poor
+Tirupati,Andhra Pradesh,Sensitive Area,5.0,10.0,61.0,187.0,32.0,2015-12-28,2015.0,12.0,6.25,12.5,0.0,158.0,158.0,Poor
+Trichy,Tamil Nadu,"Residential, Rural and other Areas",9.0,15.0,40.0,187.0,32.0,2015-12-31,2015.0,12.0,11.25,18.75,0.0,158.0,158.0,Poor
+Trivandrum,Kerala,Residential and others,6.8,26.1,54.0,62.0,32.0,2009-12-31,2009.0,12.0,8.5,32.625,0.0,62.0,62.0,Moderate
+Trivendrum,Kerala,"Residential, Rural and other Areas",13.4,14.6,90.0,187.0,32.0,2002-12-01,2011.0,7.0,16.75,18.25,0.0,158.0,158.0,Poor
+Tumkur,Karnataka,"Residential, Rural and other Areas",2.0,11.0,64.0,187.0,32.0,2015-12-30,2015.0,12.0,2.5,13.75,0.0,158.0,158.0,Poor
+Tura,Meghalaya,"Residential, Rural and other Areas",2.0,5.0,22.0,187.0,32.0,2015-09-22,2015.0,9.0,2.5,6.25,0.0,158.0,158.0,Poor
+Turicorin,Tamil Nadu,"Residential, Rural and other Areas",5.3,7.2,90.0,51.0,32.0,1991-12-01,2011.0,7.0,6.625,9.0,0.0,51.0,51.0,Moderate
+Tuticorin,Tamil Nadu,"Residential, Rural and other Areas",9.6,16.5,90.0,22.0,32.0,2002-12-01,2011.0,7.0,12.0,20.625,0.0,22.0,22.0,Good
+ULUBERIA,West Bengal,RIRUO,20.0,46.0,171.0,187.0,32.0,2015-12-29,2015.0,12.0,25.0,57.5,0.0,158.0,158.0,Poor
+Udaipur,Rajasthan,"Residential, Rural and other Areas",5.0,32.0,171.0,187.0,32.0,2015-12-31,2015.0,12.0,6.25,40.0,0.0,158.0,158.0,Poor
+Ujjain,Madhya Pradesh,"Residential, Rural and other Areas",8.0,11.0,97.0,187.0,32.0,2015-12-31,2015.0,12.0,10.0,13.75,0.0,158.0,158.0,Poor
+Ulhasnagar,Maharashtra,"Residential, Rural and other Areas",28.0,71.0,131.0,187.0,32.0,2015-12-30,2015.0,12.0,35.0,88.75,0.0,158.0,158.0,Poor
+Umsning,Meghalaya,Industrial Area,2.0,12.0,40.0,187.0,32.0,2015-08-26,2015.0,8.0,2.5,15.0,0.0,158.0,158.0,Poor
+Una,Himachal Pradesh,Industrial Area,8.0,22.0,81.0,187.0,32.0,2015-12-31,2015.0,12.0,10.0,27.5,0.0,158.0,158.0,Poor
+Unnao,Uttar Pradesh,"Residential, Rural and other Areas",9.0,27.0,95.0,187.0,32.0,2015-12-28,2015.0,12.0,11.25,33.75,0.0,158.0,158.0,Poor
+Usgao,Goa,"Residential, Rural and other Areas",4.0,9.0,52.0,187.0,17.0,2015-12-30,2015.0,12.0,5.0,11.25,0.0,158.0,158.0,Poor
+VAPI,Gujarat,RIRUO,13.0,20.0,89.0,187.0,29.0,2015-03-26,2015.0,3.0,16.25,25.0,0.0,158.0,158.0,Poor
+Vadodara,Gujarat,"Residential, Rural and other Areas",12.0,19.0,71.0,187.0,32.0,2015-11-19,2015.0,11.0,15.0,23.75,0.0,158.0,158.0,Poor
+Vapi,Gujarat,Industrial Area,15.0,21.0,81.0,187.0,28.0,2015-03-26,2015.0,3.0,18.75,26.25,0.0,158.0,158.0,Poor
+Varanasi,Uttar Pradesh,"Residential, Rural and other Areas",20.0,34.0,146.0,187.0,32.0,2015-12-31,2015.0,12.0,25.0,42.5,0.0,158.0,158.0,Poor
+Vasco,Goa,Industrial Area,4.0,20.0,87.0,187.0,32.0,2015-12-31,2015.0,12.0,5.0,25.0,0.0,158.0,158.0,Poor
+Vijayawada,Andhra Pradesh,"Residential, Rural and other Areas",7.0,49.0,98.0,187.0,32.0,2015-12-28,2015.0,12.0,8.75,61.25,0.0,158.0,158.0,Poor
+Visakhapatnam,Andhra Pradesh,Industrial Area,8.0,16.0,64.0,187.0,32.0,2015-12-25,2015.0,12.0,10.0,20.0,0.0,158.0,158.0,Poor
+Vishakhapatnam,Andhra Pradesh,"Residential, Rural and other Areas",6.5,24.1,90.0,8.0,32.0,2002-12-01,2011.0,7.0,8.125,30.125,0.0,8.0,30.125,Good
+Vizianagaram,Andhra Pradesh,Industrial Area,9.0,21.0,70.0,187.0,32.0,2015-12-25,2015.0,12.0,11.25,26.25,0.0,158.0,158.0,Poor
+Warangal,Telangana,"Residential, Rural and other Areas",7.0,17.0,85.0,187.0,32.0,2015-12-29,2015.0,12.0,8.75,21.25,0.0,158.0,158.0,Poor
+Wayanad,Kerala,Sensitive Area,2.0,5.0,34.0,187.0,32.0,2015-12-30,2015.0,12.0,2.5,6.25,0.0,158.0,158.0,Poor
+West Singhbhum,Jharkhand,Industrial Area,18.0,22.0,85.0,187.0,32.0,2015-07-28,2015.0,7.0,22.5,27.5,0.0,158.0,158.0,Poor
+Yamuna Nagar,Haryana,Industrial Area,14.0,20.0,30.0,187.0,32.0,2014-12-30,2014.0,12.0,17.5,25.0,0.0,158.0,158.0,Poor
+Yamunanagar,Haryana,Industrial Areas,12.3,25.2,386.0,460.0,32.0,2009-12-28,2009.0,12.0,15.375,31.5,0.0,406.9767441860465,406.9767441860465,Hazardous
