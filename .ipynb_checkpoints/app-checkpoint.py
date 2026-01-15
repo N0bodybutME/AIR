@@ -85,7 +85,6 @@ else:
 
     title_suffix = f" ({city})" if city != "All" else ""
     ax.set_title(f"Distribution of Cities Across AQI Categories{title_suffix}")
--
     legend_elements = []
 
     for label in present_labels:
